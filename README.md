@@ -2,6 +2,9 @@
 
 ## Estudiante: _Franco Pesce_
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+### Hola, todo bien? Que haces mirando este **INCREIBLE** repositorio?
+### Bueno, me alegro 
+### Si queres, podes seguirme en ig @francopescee 
+### *** Aguante pdp, alta materia ***
 
 ![mi foto](Foto.jpeg)
